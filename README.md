@@ -35,8 +35,10 @@
   *How to run application/tests:*
     
   Use any of the CRUD functionality within Insomnia to test.
+  
+  Here is a video showcasing the capabilities of the api:
     
-https://youtu.be/tzs8KMyx0Fk
+  https://youtu.be/tzs8KMyx0Fk
 
 
   ## License
